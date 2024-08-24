@@ -4,10 +4,11 @@
 - I’m currently working on: [notion-apiLib](https://github.com/Real1tyy/notion-apilib-python)
 
 - How to reach me: **vavro.matej3@gmail.com**
+
 ## Connect with me:
-| LinkedIn | LeetCode | DEV.to |
-|----------|----------|----------|
-| <div align="center"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="60" /></div> | <div align="center"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="60" width="60" /></div> | <div align="center"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV.to" height="60" width="60" /></div> |
+| GitLab | LinkedIn | LeetCode | DEV.to |
+|----------|----------|----------|----------|
+| <div align="center"><a href="https://gitlab.com/Real1ty" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab Profile" height="60" width="60" /></a></div> | <div align="center"><a href="https://www.linkedin.com/in/matej-vavro-505a54303/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="60" width="60" /></a></div> | <div align="center"><a href="https://leetcode.com/u/Real1tyyy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="60" width="60" /></a></div> | <div align="center"><a href="https://dev.to/real1ty" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV.to Profile" height="60" width="60" /></a></div> |
 
 ## Languages:
 | Java | Kotlin | Python | JavaScript | TypeScript | Haskell | C |
