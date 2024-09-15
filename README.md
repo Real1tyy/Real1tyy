@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Real1ty</h1>
 <h3 align="center">.</h3>
 
-- I’m currently working on: [notion-apiLib](https://github.com/Real1tyy/notion-apilib-python)
-
-- How to reach me: **vavro.matej3@gmail.com**
-
 ## Connect with me:
 | GitLab | LinkedIn | LeetCode | DEV.to |
 |----------|----------|----------|----------|
