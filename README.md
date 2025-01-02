@@ -1,6 +1,6 @@
 <h1 align="center">Real1ty</h1>
 
-Everything can be further improved.
+Everything can be further improved, and then some more.
 
 ## Connect with me:
 
