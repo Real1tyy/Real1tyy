@@ -17,10 +17,9 @@ I also run a YouTube channel where I share tutorials, plugin showcases, and seco
 
 ---
 
-# 🗓️ Prisma Calendar (Obsidian Plugin)
+# 🗓️ [Prisma Calendar (Obsidian Plugin)](https://github.com/Real1tyy/Prisma-Calendar)
 
-A powerful, reactive calendar system built entirely on Markdown notes.  
-→ **GitHub:** https://github.com/Real1tyy/Prisma-Calendar
+A feature-rich, fully configurable calendar plugin for Obsidian.
 
 **Badges:**
 
