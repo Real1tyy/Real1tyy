@@ -21,8 +21,6 @@ I also run a YouTube channel where I share tutorials, plugin showcases, and seco
 
 A feature-rich, fully configurable calendar plugin for Obsidian.
 
-**Badges:**
-
 ![Downloads](https://img.shields.io/github/downloads/Real1tyy/Prisma-Calendar/total?label=Downloads&style=for-the-badge)
 ![Release](https://img.shields.io/github/v/release/Real1tyy/Prisma-Calendar?label=Latest%20Release&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Real1tyy/Prisma-Calendar?style=for-the-badge)
