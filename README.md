@@ -4,10 +4,12 @@
 
 ---
 
-## What I Do
+<h2 align="center">What I Do</h2>
 
-I build advanced **Obsidian plugins** and explore productivity, automation, and digital workflow design.  
+<p align="center">
+I build advanced <b>Obsidian plugins</b> and explore productivity, automation, and digital workflow design.<br/>
 I also run a YouTube channel where I share tutorials, plugin showcases, and second-brain workflows:
+</p>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCGzPa-p5w4vH80NhFQWGFjg" target="_blank">
@@ -17,15 +19,20 @@ I also run a YouTube channel where I share tutorials, plugin showcases, and seco
 
 ---
 
-# 🗓️ [Prisma Calendar (Obsidian Plugin)](https://github.com/Real1tyy/Prisma-Calendar)
+<h2 align="center">
+  🗓️ <a href="https://github.com/Real1tyy/Prisma-Calendar">Prisma Calendar (Obsidian Plugin)</a>
+</h2>
 
-A feature-rich, fully configurable calendar plugin for Obsidian.
+<p align="center">A feature-rich, fully configurable calendar plugin for Obsidian.</p>
 
-![Downloads](https://img.shields.io/github/downloads/Real1tyy/Prisma-Calendar/total?label=Downloads&style=for-the-badge)
-![Release](https://img.shields.io/github/v/release/Real1tyy/Prisma-Calendar?label=Latest%20Release&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Real1tyy/Prisma-Calendar?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/Real1tyy/Prisma-Calendar/total?label=Downloads&style=for-the-badge" />
+  <img src="https://img.shields.io/github/v/release/Real1tyy/Prisma-Calendar?label=Latest%20Release&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Real1tyy/Prisma-Calendar?style=for-the-badge" />
+</p>
 
 ---
+
 <h2 align="center">💛 Support My Work</h2>
 
 <p align="center">
@@ -74,7 +81,7 @@ A feature-rich, fully configurable calendar plugin for Obsidian.
 <code>addr1q9fqww6zfe28lsh2fzlel0x84prye80pwvlh2pj2t52w278npqzfwwkdj0wdnqfdy9u6feyzmcjqvscdxn0fd3hgqmesp82dgv</code>
 
 <p>
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/af7414f4-ea5b-4842-8568-feeb29b94afc" />
+  <img width="200" height="200" alt="ADA QR" src="https://github.com/user-attachments/assets/af7414f4-ea5b-4842-8568-feeb29b94afc" />
 </p>
 
 </details>
@@ -87,5 +94,3 @@ A feature-rich, fully configurable calendar plugin for Obsidian.
   </a>
 </p>
 -->
-
-
