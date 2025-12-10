@@ -1,4 +1,4 @@
-<h1 align="center">Real1ty</h1>
+<h1 align="center">Matej Vavro</h1>
 
 <p align="center">Everything can be further improved — and then some more.</p>
 
