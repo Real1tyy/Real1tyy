@@ -18,18 +18,65 @@ I also run a YouTube channel where I share tutorials, plugin showcases, and seco
 </p>
 
 ---
-
-<h2 align="center">
-  🗓️ <a href="https://github.com/Real1tyy/Prisma-Calendar">Prisma Calendar (Obsidian Plugin)</a>
-</h2>
-
-<p align="center">A feature-rich, fully configurable calendar plugin for Obsidian.</p>
+<h2 align="center">Real1ty Obsidian Plugin Ecosystem</h2>
+<h3 align="center">
+<a href="https://github.com/Real1tyy/Prisma-Calendar">Prisma Calendar</a>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/downloads/Real1tyy/Prisma-Calendar/total?label=Downloads&style=for-the-badge" />
   <img src="https://img.shields.io/github/v/release/Real1tyy/Prisma-Calendar?label=Latest%20Release&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Real1tyy/Prisma-Calendar?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Real1tyy/Prisma-Calendar?label=Stars&style=for-the-badge" />
 </p>
+
+---
+
+<h3 align="center">
+<a href="https://github.com/Real1tyy/Periodix-Planner">Periodix Planner</a>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/Real1tyy/Periodix-Planner/total?label=Downloads&style=for-the-badge" />
+  <img src="https://img.shields.io/github/v/release/Real1tyy/Periodix-Planner?label=Latest%20Release&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Real1tyy/Periodix-Planner?label=Stars&style=for-the-badge" />
+</p>
+
+---
+
+<h3 align="center">
+<a href="https://github.com/Real1tyy/Nexus-Properties">Nexus Properties</a>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/Real1tyy/Nexus-Properties/total?label=Downloads&style=for-the-badge" />
+  <img src="https://img.shields.io/github/v/release/Real1tyy/Nexus-Properties?label=Latest%20Release&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Real1tyy/Nexus-Properties?label=Stars&style=for-the-badge" />
+</p>
+
+---
+
+<h3 align="center">
+<a href="https://github.com/Real1tyy/Fusion-Goals">Fusion Goals</a>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/Real1tyy/Fusion-Goals/total?label=Downloads&style=for-the-badge" />
+  <img src="https://img.shields.io/github/v/release/Real1tyy/Fusion-Goals?label=Latest%20Release&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Real1tyy/Fusion-Goals?label=Stars&style=for-the-badge" />
+</p>
+
+---
+
+<h3 align="center">
+<a href="https://github.com/Real1tyy/BasesImprovements">Bases Improvements</a>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/Real1tyy/BasesImprovements/total?label=Downloads&style=for-the-badge" />
+  <img src="https://img.shields.io/github/v/release/Real1tyy/BasesImprovements?label=Latest%20Release&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Real1tyy/BasesImprovements?label=Stars&style=for-the-badge" />
+</p>
+
 
 ---
 
