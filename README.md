@@ -91,8 +91,15 @@ I also run a YouTube channel where I share tutorials, plugin showcases, and seco
 <h2 align="center">💛 Support My Work</h2>
 
 <p align="center">
-  If you enjoy my plugins or my content, your support helps me continue building better tools for the community.
+  If you enjoy my plugins or content, you can support the project here:
 </p>
+
+<p align="center">
+  👉 <a href="https://matejvavroproductivity.com/support/" target="_blank">
+    <b>matejvavroproductivity.com/support</b>
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/sponsors/Real1tyy" target="_blank">
@@ -109,37 +116,6 @@ I also run a YouTube channel where I share tutorials, plugin showcases, and seco
   </a>
 </p>
 
----
-
-<details>
-<summary><h3 align="center">👇 All donation methods (details, QR codes, crypto)</h3></summary>
-
-### ☕ One-time support
-
-- **Ko-fi:**  
-  <a href="https://ko-fi.com/matejvavro" target="_blank">https://ko-fi.com/matejvavro</a>
-
-- **PayPal.me:**  
-  <a href="https://paypal.me/Real1tyy" target="_blank">https://paypal.me/Real1tyy</a>
-
-- **GitHub Sponsors:**  
-  <a href="https://github.com/sponsors/Real1tyy" target="_blank">https://github.com/sponsors/Real1tyy</a>
-
-- **Crypto via NOWPayments (any coin → ADA/ETH/USDC/etc.):**  
-  <a href="https://nowpayments.io/donation/matejvavro" target="_blank">https://nowpayments.io/donation/matejvavro</a>
-
----
-
-### ₿ Direct crypto support (lowest fees)
-
-**Cardano (ADA):**  
-<code>addr1q9fqww6zfe28lsh2fzlel0x84prye80pwvlh2pj2t52w278npqzfwwkdj0wdnqfdy9u6feyzmcjqvscdxn0fd3hgqmesp82dgv</code>
-
-<p>
-  <img width="200" height="200" alt="ADA QR" src="https://github.com/user-attachments/assets/af7414f4-ea5b-4842-8568-feeb29b94afc" />
-</p>
-
-</details>
 
 <!-- Stripe – Add once your Payment Link is ready -->
 <!--
