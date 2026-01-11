@@ -19,6 +19,14 @@ I also run a YouTube channel where I share tutorials, plugin showcases, and seco
 
 ---
 <h2 align="center">Real1ty Obsidian Plugin Ecosystem</h2>
+
+<p align="center">
+  👉 <a href="https://matejvavroproductivity.com/tools/" target="_blank">
+    View all plugins, docs, and demos on my website
+  </a>
+</p>
+
+
 <h3 align="center">
 <a href="https://github.com/Real1tyy/Prisma-Calendar">Prisma Calendar</a>
 </h3>
